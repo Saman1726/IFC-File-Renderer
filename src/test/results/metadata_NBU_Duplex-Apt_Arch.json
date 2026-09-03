@@ -1,0 +1,19 @@
+{
+  "file_version": "IFC2X3",
+  "name": "0001",
+  "description": "",
+  "units": "METER",
+  "total_elements": 75,
+  "building_name": "0001",
+  "storeys": 4,
+  "elements_by_type": {
+    "IfcWindow": 24,
+    "IfcSlab": 21,
+    "IfcDoor": 14,
+    "IfcBeam": 8,
+    "IfcRailing": 4,
+    "IfcStair": 2,
+    "IfcRoof": 1,
+    "IfcWall": 1
+  }
+}

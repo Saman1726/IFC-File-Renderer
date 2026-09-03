@@ -1,0 +1,12 @@
+{
+  "file_version": "IFC2X3",
+  "name": "",
+  "description": "",
+  "units": "METER",
+  "total_elements": 4,
+  "building_name": "",
+  "storeys": 0,
+  "elements_by_type": {
+    "IfcWindow": 4
+  }
+}

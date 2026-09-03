@@ -1,0 +1,50 @@
+[
+  {
+    "material": "Leer",
+    "raw_material_name": "Leer",
+    "volume_m3": 2432.7,
+    "element_count": 265
+  },
+  {
+    "material": "Kalksandstein",
+    "raw_material_name": "Kalksandstein",
+    "volume_m3": 1092.42,
+    "element_count": 119
+  },
+  {
+    "material": "Aluminium",
+    "raw_material_name": "Aluminium",
+    "volume_m3": 192.78,
+    "element_count": 21
+  },
+  {
+    "material": "Stahlbeton",
+    "raw_material_name": "Stahlbeton",
+    "volume_m3": 100.98,
+    "element_count": 11
+  },
+  {
+    "material": "Wood Spruce Beam",
+    "raw_material_name": "wood_spruce_beam",
+    "volume_m3": 25.719092,
+    "element_count": 6
+  },
+  {
+    "material": "Stone Sand Lime",
+    "raw_material_name": "stone_sand-lime",
+    "volume_m3": 21.432577,
+    "element_count": 5
+  },
+  {
+    "material": "Metal Steel Galvanized",
+    "raw_material_name": "metal_steel-galvanized",
+    "volume_m3": 8.573031,
+    "element_count": 2
+  },
+  {
+    "material": "Concrete Reinforced In Situ",
+    "raw_material_name": "concrete_reinforced_in-situ",
+    "volume_m3": 4.286515,
+    "element_count": 1
+  }
+]

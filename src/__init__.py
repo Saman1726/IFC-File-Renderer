@@ -1,0 +1,1 @@
+"""CERP IFC Renderer Service — Parse, render, and export IFC building models."""

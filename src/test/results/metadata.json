@@ -1,0 +1,15 @@
+{
+  "file_version": "IFC4",
+  "name": "ifc silly sample scene - project",
+  "description": "Demystifying IFC with a playful scene using diverse building elements and compositions.",
+  "units": "METER",
+  "total_elements": 14,
+  "building_name": "ifc silly sample scene - project",
+  "storeys": 1,
+  "elements_by_type": {
+    "IfcBeam": 6,
+    "IfcWall": 4,
+    "IfcBuildingElementProxy": 3,
+    "IfcRoof": 1
+  }
+}
