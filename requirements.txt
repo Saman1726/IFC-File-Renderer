@@ -1,0 +1,21 @@
+# Core IFC processing
+ifcopenshell==0.8.5
+
+# Web framework
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+
+# Image rendering (2D previews)
+Pillow==11.1.0
+
+# 3D geometry processing
+trimesh==4.6.0
+numpy==2.2.3
+
+# HTTP client (document-service integration)
+httpx==0.28.1
+
+# Utilities
+pydantic==2.10.5
+python-multipart==0.0.20
+python-dotenv==1.0.1
